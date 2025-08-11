@@ -33,8 +33,34 @@ cp /REPLACE/yeast_hunter.tar.gz .
 tar -x yeast_hunter.tar.gz
 ```
 
-### Step 3 - Enter the Yeast Hunter world!
+## Step 3 - Explore the Yeast Hunter world!
+
+### Files in the world
 
 There are 3 things you will encounter in the world
 
-**Folders** Folders are 
+**Folders** Folders (also called directories) form the hierarchical structure of the world. You can refer to any files in your current folder/directory without adding the full folder path. 
+
+**Readable Files** Readable files are standard text files that you can visualize (or print out) in the command line. 
+
+**Executable Files** These files are programs (also called scripts) that use a programming language to execute a series of commands. 
+
+
+### Commands to move around
+
+**Enter a directory** - `cd directory_name`
+
+**Return to your base directory** - `cd`
+
+**Move to the previous directory** - `cd ..`
+
+
+### Commands to execute files (environments)
+
+If you want to "run" a executable environment file to check to see if there is a yeast there are two ways to do so. Let's use the environment `plum` as an example. 
+
+**Add ./ to the command** - You can add `./` to an executable file to run it. `./plum`
+
+**Add the program name to the command** - All of the executables in this activity are written in Bash. `bash plum`
+
+Go forth and explore!
