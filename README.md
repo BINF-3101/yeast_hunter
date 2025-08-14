@@ -13,7 +13,7 @@ In the interim, we will virtually sample on the HPC Cluster.
 
 Each of you will have a unique yeast species, so if you find one that has already been claimed on the spreadsheet - keep looking!
 
-Yeast Choice Sheet: 
+Yeast Choice Sheet: https://docs.google.com/spreadsheets/d/1EuW_gBTT3Epl0tYhHk68UUEkpcYa0N2Q1w90fKzuhr8/edit?usp=sharing 
 
 
 _HINT_ You may want to draw yourself a map of the world as you navigate through it. It may help you orient yourself
