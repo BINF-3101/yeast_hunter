@@ -24,7 +24,7 @@ _HINT_ You may want to draw yourself a map of the world as you navigate through 
 You do not need to make a new folder unless you would like to
 
 ```bash
-cp /REPLACE/yeast_hunter.tar.gz .
+cp /projects/class/binf3101_001/wild_yeast_hunter/yeast_hunter.tar.gz .
 ```
 
 ## Step 2 - Extract the activity
