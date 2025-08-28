@@ -64,3 +64,7 @@ If you want to "run" a executable environment file to check to see if there is a
 **Add the program name to the command** - All of the executables in this activity are written in Bash. `bash plum`
 
 Go forth and explore!
+
+Can't find your way in the forest? Use this command in the `forest` folder
+
+`mv .forest_path/ forest_path`
