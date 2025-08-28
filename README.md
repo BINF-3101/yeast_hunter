@@ -30,7 +30,7 @@ cp /projects/class/binf3101_001/wild_yeast_hunter/yeast_hunter.tar.gz .
 ## Step 2 - Extract the activity
 
 ```bash
-tar -x yeast_hunter.tar.gz
+tar -xf yeast_hunter.tar.gz
 ```
 
 ## Step 3 - Explore the Yeast Hunter world!
